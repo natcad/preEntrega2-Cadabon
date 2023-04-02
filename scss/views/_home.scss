@@ -1,3 +1,11 @@
+// globals
+
+@import "../globals/variables";
+@import "../globals/reset";
+@import "../globals/mixins";
+@import "../globals/media-queries";
+
+
 .primeraSeccion {
   position: relative;
   @include size(fit-content, 100%);

@@ -1,3 +1,8 @@
+@import "../globals/variables";
+@import "../globals/reset";
+@import "../globals/mixins";
+@import "../globals/media-queries";
+
 .contactos {
   @include size(fit-content, 100%);
   margin-top: 60px;
