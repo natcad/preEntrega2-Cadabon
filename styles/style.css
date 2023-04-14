@@ -122,6 +122,12 @@ a {
   overflow: hidden;
 }
 
+.containerPage {
+  height: fit-content;
+  width: 100%;
+  overflow: hidden;
+}
+
 .primeraSeccion {
   position: relative;
   height: fit-content;

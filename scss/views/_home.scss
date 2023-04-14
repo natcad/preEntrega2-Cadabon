@@ -1,4 +1,7 @@
-
+.containerPage{
+  @include size(fit-content, 100%);
+  overflow: hidden;
+}
 .primeraSeccion {
   position: relative;
   @include size(fit-content, 100%);
