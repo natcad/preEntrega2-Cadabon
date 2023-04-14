@@ -1,7 +1,4 @@
-@import "../globals/variables";
-@import "../globals/reset";
-@import "../globals/mixins";
-@import "../globals/media-queries";
+
 
 .galeria {
   @include flexible(flex, column, nowrap, center, center);
